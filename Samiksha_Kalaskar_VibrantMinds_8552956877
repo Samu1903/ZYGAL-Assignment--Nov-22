@@ -1,0 +1,24 @@
+.box{
+    text-align: center;
+    margin-top: 10%;
+}
+.one_{
+    fill: red;
+}
+.two_{
+    fill: yellow;
+}
+.three{
+    fill: green;
+}
+.four{
+    fill: orange;
+} 
+
+
+
+
+
+
+
+file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa6084.33207/index.html
